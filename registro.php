@@ -120,7 +120,6 @@
 
                         <div class="text-xs-center">
                             <button class="btn btn-comm btn-lg enter">Sign up</button>
-                            <br>
                             <button class="btn btn-comm btn-lg" id="singin">Sign in</button>
                             <hr>
                             <fieldset class="form-group">

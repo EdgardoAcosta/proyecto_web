@@ -158,7 +158,7 @@ echo '<!DOCTYPE html>
 
             <!-- Breadcrumb-->
             <div class="breadcrumb-dn">
-                <p>MDB E-commerce Home Page</p>
+                <p>Pet Shop</p>
             </div>
 
 
@@ -180,7 +180,7 @@ echo '<!DOCTYPE html>
                     <a class="nav-link dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i> <span class="hidden-sm-down">Profile</span></a>
                     <div class="dropdown-menu dropdown-primary dd-right" aria-labelledby="dropdownMenu1" data-dropdown-in="fadeIn" data-dropdown-out="fadeOut">
                         <a class="dropdown-item" href="#">Logout</a>
-                        <a class="dropdown-item" href="#">My account</a>
+                        <a class="dropdown-item" href="registro.php">My account</a>
                     </div>
                 </li>
             </ul>
