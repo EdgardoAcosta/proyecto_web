@@ -2,7 +2,6 @@
 /**
  * User: edgardoacosta
  * Date: 14/04/17
- * Time: 17:32
  */
 
 echo '

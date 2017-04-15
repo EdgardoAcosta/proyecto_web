@@ -2,7 +2,6 @@
 /**
  * User: edgardoacosta
  * Date: 14/04/17
- * Time: 17:28
  */
 
 echo '<!DOCTYPE html>
@@ -27,14 +26,14 @@ echo '<!DOCTYPE html>
     <!-- Material Design Bootstrap -->
     <link href="css/mdb.min.css" rel="stylesheet">
     
-    <!--SweetAlert2-->
-    <script src="sweetalert2/sweetalert2.min.js"></script>
+    <!--SweetAlert2--
+    <script src="sweetalert2/sweetalert2.min.js"></script>-->
      <!--jquery3-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 </head>
 
-<body class="fixed-sn mdb-skin">
+<body class="fixed-sn green-skin">
    
     <!--Double navigation-->
     <header>
